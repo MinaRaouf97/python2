@@ -6,5 +6,7 @@ delete tag : git push --delete origin v1.7
 select tags : git tag -- list
 
 
+![alt image](4498903.jpg)
+
 
 
